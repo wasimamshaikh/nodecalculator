@@ -1,3 +1,11 @@
-"scripts": {
-  "test": "mocha tests/*.js"
+{
+  "name": "nodecalculator",
+  "version": "1.0.0",
+  "description": "Simple calculator with tests",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
 }
